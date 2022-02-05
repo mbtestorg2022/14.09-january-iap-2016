@@ -28,7 +28,36 @@ Grading
 
 This course is graded on a pass / fail scale. The exam will be distributed at the end of the last lecture and will be due 24 hours afterwards.
 
-| ACTIVITIES | GRADES |
-| --- | --- |
-| Class participation | 30% |
-| Take-home exam | 70%
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+GRADES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class participation
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Take-home exam
+{{< tdclose >}}
+{{< tdopen >}}
+70%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
