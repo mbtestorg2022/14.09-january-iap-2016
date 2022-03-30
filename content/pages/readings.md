@@ -72,7 +72,7 @@ Leverage, Fire Sales, and Amplification Mechanisms
 {{< tdopen >}}
 
 
-\* Geanakoplos, John. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Leverage Cycle." (PDF)](https://www.journals.uchicago.edu/doi/full/10.1086/648285) _NBER Macroeconomics Annual_ 24 (2009): 1–65.
+\* Geanakoplos, John. ["The Leverage Cycle." (PDF)](https://www.journals.uchicago.edu/doi/full/10.1086/648285) _NBER Macroeconomics Annual_ 24 (2009): 1–65.
 
 \* Jorion, Philippe. "[Risk Management Lessons from Long Term Capital Management](http://dx.doi.org/10.1111/1468-036X.00125)." _European Financial Management_ 6, no. 3 (2000): 277–300.
 
@@ -120,7 +120,7 @@ Liquidity, Part 1: Maturity Mismatch and Banking Panics
 
 \* Diamond, Douglas W., and Philip H. Dybvig. "[Bank Runs, Deposit Insurance, and Liquidity](http://dx.doi.org/10.1086/261155)." _Journal of Political Economy_ 91, no. 3 (1983): 401–19.
 
-Bordo, Michael D. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Lender of Last Resort: Alternative Views and Historical Experience." (PDF - 1.5 MB)](https://www.richmondfed.org/-/media/richmondfedorg/publications/research/economic_review/1990/pdf/er760103.pdf) _FRB Richmond Economic Review_ 76, no. 1 (1990): 18–29.
+Bordo, Michael D. ["The Lender of Last Resort: Alternative Views and Historical Experience." (PDF - 1.5 MB)](https://www.richmondfed.org/-/media/richmondfedorg/publications/research/economic_review/1990/pdf/er760103.pdf) _FRB Richmond Economic Review_ 76, no. 1 (1990): 18–29.
 
 Gorton, Gary, and Andrew Metrick. "[The Federal Reserve and Panic Prevention: The Roles of Financial Regulation and Lender of Last Resort](http://dx.doi.org/10.1257/jep.27.4.45)." _Journal of Economic Perspectives_ 27, no. 4 (2013): 45–64.
 
@@ -140,7 +140,7 @@ Liquidity, Part 2: Debt, Panics, and Flight to Quality
 {{< tdopen >}}
 
 
-\* Holmstrom, Bengt. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Understanding the Role of Debt in the Financial System." (PDF - 1.2MB)](http://www.bis.org/publ/work479.pdf) Bank for International Settlements Working Paper no. 479, 2015.
+\* Holmstrom, Bengt. ["Understanding the Role of Debt in the Financial System." (PDF - 1.2MB)](http://www.bis.org/publ/work479.pdf) Bank for International Settlements Working Paper no. 479, 2015.
 
 Gorton, Gary B. "[Questions and Answers about the Financial Crisis-Prepared for the US Financial Crisis Inquiry Commission](http://dx.doi.org/10.2139/ssrn.1557279)." _National Bureau of Economic Research_, February 2010.
 
@@ -162,7 +162,7 @@ Interconnections and Complexity
 
 McDonald, Robert, and Anna Paulson. "[AIG in Hindsight](http://dx.doi.org/10.1257/jep.29.2.81)." _Journal of Economic Perspectives_ 29, no. 2 (2015): 81–106.
 
-\* Acemoglu, Daron, Asuman Ozdaglar, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Systemic Risk and Stability in Financial Networks." (PDF)](http://www.nber.org/papers/w18727.pdf) National Bureau of Economic Research Working Paper no. 18727, 2013.
+\* Acemoglu, Daron, Asuman Ozdaglar, et al. ["Systemic Risk and Stability in Financial Networks." (PDF)](http://www.nber.org/papers/w18727.pdf) National Bureau of Economic Research Working Paper no. 18727, 2013.
 
 \* Caballero, Ricardo J., and Alp Simsek. "[Fire Sales in a Model of Complexity](http://dx.doi.org/10.1111/jofi.12087)." _The Journal of Finance_ 68, no. 6 (2013): 2549–87.
 
