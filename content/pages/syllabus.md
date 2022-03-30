@@ -12,9 +12,9 @@ Lectures: 1 lecture / week, 1.5 hours / lecture
 Prerequisites
 -------------
 
-[_18.01 Single Variable Calculus_](/courses/18-01-single-variable-calculus-fall-2006/)
+[_18.01 Single Variable Calculus_](/courses/18-01-single-variable-calculus-fall-2006)
 
-[_14.02 Principles of Macroeconomics_](/courses/14-02-principles-of-macroeconomics-spring-2014/)
+[_14.02 Principles of Macroeconomics_](/courses/14-02-principles-of-macroeconomics-spring-2014)
 
 Course Overview
 ---------------
